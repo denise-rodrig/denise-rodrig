@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**denise-rodrig/denise-rodrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou a Denise Rodrigues!
 
-Here are some ideas to get you started:
+💬 Sou desenvolvedora de sistema web.Buscando atuar em segurança digital 👩‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 e-mail: jobs.1243236@gmail.com 
+
+📚 Formada em Análise e Desenvolvimento de Sistemas
+##
+<div align="center">
+  <a href="http://developmentstudio.epizy.com/?i=1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denise-rodrig&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denise-rodrig&layout=compact&langs_count=7&theme=radical"/>
+</div>
