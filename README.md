@@ -1,7 +1,7 @@
 
 ## Olá, eu sou a Denise Rodrigues!
 
-💬 Sou desenvolvedora de sistema web.Buscando atuar em segurança digital 👩‍🎓
+💬 Sou desenvolvedora de sistema web.
 
 📧 e-mail: jobs.1243236@gmail.com 
 
