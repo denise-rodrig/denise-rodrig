@@ -1,11 +1,11 @@
 
-## Olá, eu sou a Denise Rodrigues!
+### Olá, eu sou a Denise Rodrigues!
 
-💬 Sou desenvolvedora de sistema web.
+#### 💬 Sou desenvolvedora de sistema web.
 
-📧 e-mail: jobs.1243236@gmail.com 
+#### 📧 e-mail: <jobs.1243236@gmail.com> 
 
-📚 Formada em Análise e Desenvolvimento de Sistemas
+#### 📚 Formada em Análise e Desenvolvimento de Sistemas
 ##
 <div align="center">
   <a href="http://developmentstudio.epizy.com/?i=1">
