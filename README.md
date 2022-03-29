@@ -1,7 +1,7 @@
 
 ### Olá, eu sou a Denise Rodrigues!
 
-#### 💬 Sou desenvolvedora web front end e Web Design
+#### 💬 Sou desenvolvedora web front end
 
 #### 📚 Formada em Análise e Desenvolvimento de Sistemas
 ##
